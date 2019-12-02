@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SqlLite</string>
+    <string name="header">Phone Book</string>
+
+    <string name="btn_new">Create New</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_show">Show</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_submit">Submit</string>
+
+    <string name="et_name">Name</string>
+    <string name="et_paisa">Paisa</string>
+    <string name="et_old_paisa">Old Paisa</string>
+    <string name="et_new_paisa">New Paisa</string>
+    <string name="et_new_name">New Name</string>
+</resources>
